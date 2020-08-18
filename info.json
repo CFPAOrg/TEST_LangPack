@@ -1,0 +1,20 @@
+[
+  {
+    "version": "1.15.2",
+    "info": []
+  },
+  {
+    "version": "1.12.2",
+    "info": [
+      {
+        "project_name": "a-block-of-charcoal",
+        "project_id": "251079",
+        "name": "A Block of Charcoal",
+        "modid": "",
+        "domains": [
+          "charcoalblock"
+        ]
+      }
+    ]
+  }
+]
