@@ -3,6 +3,6 @@
     "item.adhooks.spear_hook": "矛勾",
     "entity.adhooks.hookshot": "勾",
     "keybind.adhooks.unhook": "不勾",
-    "tooltip.adhooks.launcher.hook_strength": "",
+    "tooltip.adhooks.launcher.hook_strength": "勾强度",
     "item.adhooks.pudge_hook": "胖勾"
 }
