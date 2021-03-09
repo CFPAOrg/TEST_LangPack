@@ -1,10 +1,21 @@
 {
-    "item.adhooks.web_hook": "勾 勾 ",
-    "item.adhooks.spear_hook": "矛勾",
+    "item.adhooks.web_hook": "",
+    "item.adhooks.spear_hook": "",
     "entity.adhooks.hookshot": "勾",
     "keybind.adhooks.unhook": "不勾",
     "tooltip.adhooks.launcher.hook_strength": "勾强",
-    "item.adhooks.pudge_hook": "胖勾",
-    "item.adhooks.prototype_launcher": "233ab",
-    "tooltip.adhooks.launcher.pull": "拉"
+    "item.adhooks.pudge_hook": "",
+    "item.adhooks.prototype_launcher": "",
+    "tooltip.adhooks.launcher.pull": "拉",
+    "item.adhooks.pudge_launcher": "",
+    "item.adhooks.spear_launcher": "",
+    "tooltip.adhooks.launcher.boost_up": "asd",
+    "tooltip.adhooks.launcher.loosen": "gfh",
+    "tooltip.adhooks.launcher.reel_unhook": "gds",
+    "tooltip.adhooks.launcher.launch": "fsd",
+    "tooltip.adhooks.launcher.boostup_strength": "qwe",
+    "tooltip.adhooks.launcher.reeling_speed": "zxc",
+    "tooltip.adhooks.launcher.rope_max_length": "ad",
+    "tooltip.adhooks.launcher.rope_elasticity": "as",
+    "item.adhooks.web_launcher": "abcd"
 }
