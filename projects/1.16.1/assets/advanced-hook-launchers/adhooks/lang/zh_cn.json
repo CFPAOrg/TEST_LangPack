@@ -7,7 +7,7 @@
     "item.adhooks.pudge_hook": "ase233",
     "item.adhooks.prototype_launcher": "zxcasc",
     "tooltip.adhooks.launcher.pull": "拉",
-    "item.adhooks.pudge_launcher": "xcv",
+    "item.adhooks.pudge_launcher": "xcva",
     "item.adhooks.spear_launcher": "zxb",
     "tooltip.adhooks.launcher.boost_up": "asd",
     "tooltip.adhooks.launcher.loosen": "gfh",
@@ -18,5 +18,6 @@
     "tooltip.adhooks.launcher.rope_max_length": "ad",
     "tooltip.adhooks.launcher.rope_elasticity": "as",
     "item.adhooks.web_launcher": "abcd",
-    "tooltip.adhooks.launcher.release": "asc"
+    "tooltip.adhooks.launcher.release": "asc",
+    "tooltip.adhooks.launcher.more_info": "asraaa"
 }
