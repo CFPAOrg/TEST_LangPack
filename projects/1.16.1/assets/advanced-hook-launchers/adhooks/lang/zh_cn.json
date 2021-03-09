@@ -5,7 +5,7 @@
     "keybind.adhooks.unhook": "不勾",
     "tooltip.adhooks.launcher.hook_strength": "勾强",
     "item.adhooks.pudge_hook": "ase233",
-    "item.adhooks.prototype_launcher": "zxc",
+    "item.adhooks.prototype_launcher": "zxcasc",
     "tooltip.adhooks.launcher.pull": "拉",
     "item.adhooks.pudge_launcher": "",
     "item.adhooks.spear_launcher": "",
@@ -17,5 +17,6 @@
     "tooltip.adhooks.launcher.reeling_speed": "zxc",
     "tooltip.adhooks.launcher.rope_max_length": "ad",
     "tooltip.adhooks.launcher.rope_elasticity": "as",
-    "item.adhooks.web_launcher": "abcd"
+    "item.adhooks.web_launcher": "abcd",
+    "tooltip.adhooks.launcher.release": "asc"
 }
