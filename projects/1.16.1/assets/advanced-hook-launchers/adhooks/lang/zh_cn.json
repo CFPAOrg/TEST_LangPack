@@ -1,6 +1,6 @@
 {
-    "item.adhooks.web_hook": "",
-    "item.adhooks.spear_hook": "",
+    "item.adhooks.web_hook": "ac ",
+    "item.adhooks.spear_hook": "aa",
     "entity.adhooks.hookshot": "勾",
     "keybind.adhooks.unhook": "不勾",
     "tooltip.adhooks.launcher.hook_strength": "勾强",
