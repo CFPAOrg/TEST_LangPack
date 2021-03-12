@@ -1,14 +1,14 @@
 {
-    "item.adhooks.web_hook": "",
-    "item.adhooks.spear_hook": "za",
+    "item.adhooks.web_hook": "zbq ",
+    "item.adhooks.spear_hook": "zaq",
     "entity.adhooks.hookshot": "勾",
     "keybind.adhooks.unhook": "不勾",
     "tooltip.adhooks.launcher.hook_strength": "勾强",
     "item.adhooks.pudge_hook": "ab",
-    "item.adhooks.prototype_launcher": "",
+    "item.adhooks.prototype_launcher": "ad",
     "tooltip.adhooks.launcher.pull": "拉",
-    "item.adhooks.pudge_launcher": "",
-    "item.adhooks.spear_launcher": "",
+    "item.adhooks.pudge_launcher": "zd",
+    "item.adhooks.spear_launcher": "zc",
     "tooltip.adhooks.launcher.boost_up": "asd",
     "tooltip.adhooks.launcher.loosen": "gfh",
     "tooltip.adhooks.launcher.reel_unhook": "gds",
@@ -17,7 +17,7 @@
     "tooltip.adhooks.launcher.reeling_speed": "",
     "tooltip.adhooks.launcher.rope_max_length": "",
     "tooltip.adhooks.launcher.rope_elasticity": "as",
-    "item.adhooks.web_launcher": "",
+    "item.adhooks.web_launcher": "ze",
     "tooltip.adhooks.launcher.release": "asc",
     "tooltip.adhooks.launcher.more_info": "asraaa"
 }
