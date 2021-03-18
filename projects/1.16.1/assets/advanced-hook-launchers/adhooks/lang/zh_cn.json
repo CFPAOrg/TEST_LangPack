@@ -1,10 +1,10 @@
 {
-    "item.adhooks.web_hook": "",
-    "item.adhooks.spear_hook": "",
+    "item.adhooks.web_hook": "qw ",
+    "item.adhooks.spear_hook": "abc",
     "entity.adhooks.hookshot": "勾",
     "keybind.adhooks.unhook": "不勾吧",
     "tooltip.adhooks.launcher.hook_strength": "勾强",
-    "item.adhooks.pudge_hook": "",
+    "item.adhooks.pudge_hook": "acqsda",
     "item.adhooks.prototype_launcher": "aeab",
     "tooltip.adhooks.launcher.pull": "拉",
     "item.adhooks.pudge_launcher": "aga",
