@@ -5,5 +5,9 @@
     "item.vfp.gen_anyfood_portion": "食物部分",
     "multiuse.food.left": "（可以吃~%1$d次左右）2",
     "item.vfp.red_flint": "红燧石233",
-    "tooltip_summ.item.vfp.flint_butcher_axe": "233"
+    "tooltip_summ.item.vfp.flint_butcher_axe": "233",
+    "multiuse.food.left.advanced": "（可以吃~%1$d次左右，%2$d磅）",
+    "item.vfp.iron_smugget": "铁微粒",
+    "tooltip_summ.item.vfp.red_flint": "挖掘沙砾时偶尔会掉落。可以用来制作非常锋利的切削工具",
+    "item.vfp.potion_mixer_funnel": "私酿量斗"
 }
