@@ -1,7 +1,9 @@
 {
-    "itemGroup.VFP": "基础食品储藏室 5.5.1232",
+    "itemGroup.VFP": "基础食品储藏室 5.5.1232234454",
     "item.vfp.eek_vfp": "Wabbity Mistake （VFP）",
     "item.vfp.vfp_icon": "基础食品储藏室",
     "item.vfp.gen_anyfood_portion": "食物部分",
-    "multiuse.food.left": "（可以吃~%1$d次左右）"
+    "multiuse.food.left": "（可以吃~%1$d次左右）2",
+    "item.vfp.red_flint": "红燧石233",
+    "tooltip_summ.item.vfp.flint_butcher_axe": "233"
 }
